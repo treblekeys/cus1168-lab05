@@ -1,4 +1,4 @@
-# Building a Lexical Analyzer
+# Lab 05 - Generic Stack Implementation Lab
 
 ### Overview
 
